@@ -1,6 +1,6 @@
 <h1>Rock Paper Scissors</h1>
 <h2>Entry for The Odin Project's Rock Paper Scissors game in Javascript</h2>
-<h3>Live preview can be found <a href="https://fatrixienicolieopetina.github.io/rockpaperscissors/index.html">here</a></h3>
+<h3>Live preview can be found <a href="https://niicoolest.github.io/rockpaperscissors/index.html">here</a></h3>
 
 <h2>WIL/Thoughts 🤔</h2>
 <div>
